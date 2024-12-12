@@ -1,0 +1,30 @@
+/* Garante que o body ocupe toda a altura da janela */  
+html, body {  
+    height: 100%;  
+    margin: 0;  
+    display: flex;  
+    flex-direction: column;  
+}  
+    
+    /* O main ocupa o espaço restante entre o header e o footer */  
+main.principal {  
+    flex: 1;  
+}  
+
+h1{
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(111, 111, 107, 0.675);
+}
+
+
+footer {
+    background-color: rgba(111, 111, 107, 0.675);;
+    color: #ffffff;
+    position: relative;
+    padding: 20px 0;
+    width: 100vw;
+    height: 100px;
+}
