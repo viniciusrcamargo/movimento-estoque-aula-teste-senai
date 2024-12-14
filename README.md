@@ -29,10 +29,6 @@ Você também pode experimentar o [Laravel Bootcamp](https://bootcamp.laravel.co
 
 Se você não gosta de ler, o [Laracasts](https://laracasts.com) pode ajudar. O Laracasts contém milhares de tutoriais em vídeo sobre uma variedade de tópicos, incluindo Laravel, PHP moderno, testes unitários e JavaScript. Melhore suas habilidades explorando nossa biblioteca de vídeos abrangente.
 
-## Patrocinadores do Laravel
-
-Gostaríamos de estender nossos agradecimentos aos seguintes patrocinadores por financiarem o desenvolvimento do Laravel. Se você estiver interessado em se tornar um patrocinador, visite o [programa de parceiros do Laravel](https://partners.laravel.com).
-
 ## Contribuindo
 
 Obrigado por considerar contribuir com o framework Laravel! O guia de contribuição pode ser encontrado na [documentação do Laravel](https://laravel.com/docs/contributions).
